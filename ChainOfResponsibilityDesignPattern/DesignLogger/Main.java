@@ -7,5 +7,7 @@ public class Main {
         logObject.log(2, "This is a DEBUG logger.");
         logObject.log(3, "This is an ERROR logger");
         logObject.log(6, "Does not exist");
+
+        
     }
 }
