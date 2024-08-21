@@ -1,5 +1,6 @@
 package BehaviouralDesignPatterns.ChainOfResponsibilityDesignPattern.DesignLogger;
 
+
 public class ErrorLogProcessor extends LogProcessor{
 
     public ErrorLogProcessor(LogProcessor nextLoggerProcessor) {
